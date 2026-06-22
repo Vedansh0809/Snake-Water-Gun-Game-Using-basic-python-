@@ -1,4 +1,4 @@
-import random
+helpimport random
 
 computer = random.choice([-1, 0, 1])
 youstr = input("Enter your choices: " )
